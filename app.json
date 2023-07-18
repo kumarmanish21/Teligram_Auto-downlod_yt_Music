@@ -1,5 +1,5 @@
 {
-  "name": "Telegram Music Bot",
+  "name": "XD Telegram Music Downloader Bot",
   "description": "Telegram Music Bot for YouTube/SoundCloud/Mixcloud",
   "keywords": [
     "telegram",
@@ -12,7 +12,7 @@
     "youtube-dl",
     "python"
   ],
-  "repository": "https://github.com/dashezup/tgmusicbot",
+  "repository": "https://github.com/kumarmanish21/Teligram_Auto-downlod_yt_Music",
   "logo": "https://i.imgur.com/xeG3yYL.jpg",
   "env": {
     "API_ID": {
